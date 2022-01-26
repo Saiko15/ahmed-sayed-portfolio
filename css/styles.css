@@ -16,7 +16,7 @@ body {
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-    /* width: 600px; */
+    /* width: 600px;      If it doesn't have width, it'll take the full width and prevent scroll  */ 
     background-color: #eee;
 }
 
