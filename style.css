@@ -38,6 +38,23 @@ header {
     padding-left: 30px;
 }
 
+#resume{
+    
+    /* background-color: #4b479d; */
+    color: #fff;
+    background-color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    /* display: inline-block; */
+    padding: 0.5em 0.9375em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    /* margin-bottom: 40px; */
+    /* transition: 0.7s ease; */
+    margin-left: 20px;
+}
+
 .navigation a:hover{
     color: #601cfc;
 }
